@@ -5,7 +5,8 @@ This is a code snippet to allow you to use a Python environment within a Jupyter
 conda create -n newenv python=3.7
 activate newenv 
 conda install -c anaconda ipykernel
-ipython kernel install --user --name=envname 
+ipython kernel install --user --name=envname
+ipython kernet install --user --name=ml_pocket_reference
 Now let’s break it down into steps.
 
 Step 1: Create your environment
