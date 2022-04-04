@@ -54,4 +54,9 @@ conda activate ml_pocket_reference
 TO install yellowbricks
 conda install -c districtdatalabs yellowbrick
 
+update ipython
+ipython kernel install --user --name=ml_pocket_reference
 
+or
+
+pip install -U yellowbrick
