@@ -49,3 +49,9 @@ conda create -f environment.yml
 
 To activate the environment for the book
 conda activate ml_pocket_reference
+
+
+TO install yellowbricks
+conda install -c districtdatalabs yellowbrick
+
+
