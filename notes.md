@@ -45,3 +45,7 @@ conda env export > environment.yml
 
 To install these requirements in a new environment, run:
 conda create -f environment.yml
+
+
+To activate the environment for the book
+conda activate ml_pocket_reference
